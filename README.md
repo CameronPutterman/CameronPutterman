@@ -1,6 +1,6 @@
 Hi, I’m Cameron Putterman.
-I am an aspiring business/financial analyst.
-I have a background in client facing roles and I am actively expanding my skills through advanced coursework in data-driven programming languages to deepen my expertise and add value in a data-focused role.
+I am an aspiring data analyst.
+I have a background in client facing roles and I am actively expanding my skills through advanced coursework in data-driven programming languages to deepen my expertise and add value in a data-focused role. This site is my Instagram for all the data learning I am working through. 
 <!--
 **CameronPutterman/CameronPutterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
